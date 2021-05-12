@@ -5,7 +5,7 @@ socialshare: true
 Resources:
   - type: image
     src: /images/uploads/featured.jpg
-    position: right
+    position: left
     title: linåker left
     alt: mnmnmnm
 ---
